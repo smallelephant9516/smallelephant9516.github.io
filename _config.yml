@@ -21,7 +21,7 @@ repository               : "https://github.com/smallelephant9516/smallelephant95
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Daoyi Li"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
