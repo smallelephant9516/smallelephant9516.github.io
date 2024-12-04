@@ -11,4 +11,4 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Daoyi Li personal website
 ======
-This is Daoyi Li the last year PhD student in [Wen Jiang's lab](https://mmistakes.github.io/minimal-mistakes/) studying [Structural and Computational Biology](https://www.bio.purdue.edu/structural/index.html) in Purdue University. 
+This is Daoyi Li the last year PhD student in [Wen Jiang's lab](https://jiang.bio.purdue.edu/) studying [Structural and Computational Biology](https://www.bio.purdue.edu/structural/index.html) in Purdue University. 
