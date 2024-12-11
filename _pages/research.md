@@ -18,17 +18,17 @@ _Department of Biological Science, Purdue University, supervisor: Wen Jiang, 201
 <details>
   <summary> details </summary>
 
-## Method developement for the helical reconstruction
-
-### Publication
-
-## Development for cryoVR
-
-### Publication
-
-## Integrated our real helical recontruction pipeline in our research
-
-### Publication
+  ## Method developement for the helical reconstruction
+  
+  ### Publication
+  
+  ## Development for cryoVR
+  
+  ### Publication
+  
+  ## Integrated our real helical recontruction pipeline in our research
+  
+  ### Publication
 
 </details>
 
@@ -37,7 +37,7 @@ _Genentech, supervisor: Dimitry Tegunov, 2023 summer_
 <details>
   <summary> details </summary>
 
-## Generating 3D density from 2D class averages
+  ## Generating 3D density from 2D class averages
 
 </details>
 
@@ -48,7 +48,7 @@ _Department of Biological Science, Purdue University, supervisor: Mohamed N. Sel
 <details>
   <summary> details </summary>
   
-## Drug discovery for the anti-microbial resistence bacteria
+  ## Drug discovery for the anti-microbial resistence bacteria
 
-### Publication
+  ### Publication
 </details>
