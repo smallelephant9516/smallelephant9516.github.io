@@ -15,40 +15,37 @@ redirect_from:
 
 # Ph.D. research
 _Department of Biological Science, Purdue University, supervisor: Wen Jiang, 2019-2025_
-<details>
-  <summary> details </summary>
 
-  ## Method developement for the helical reconstruction
-  
-  ### Publication
-  
-  ## Development for cryoVR
-  
-  ### Publication
-  
-  ## Integrated our real helical recontruction pipeline in our research
-  
-  ### Publication
 
-</details>
+## Method developement for the helical reconstruction
+  
+### Publication
+  
+## Development for cryoVR
+  
+### Publication
+  
+## Integrated our real helical recontruction pipeline in our research
+  
+### Publication
+
+
 
 # CryoEM machine learning intern
 _Genentech, supervisor: Dimitry Tegunov, 2023 summer_
-<details>
-  <summary> details </summary>
 
-  ## Generating 3D density from 2D class averages
 
-</details>
+## Generating 3D density from 2D class averages
+
+
 
 
 
 # Research assitant 
 _Department of Biological Science, Purdue University, supervisor: Mohamed N. Seleem, 2018-2019_
-<details>
-  <summary> details </summary>
-  
-  ## Drug discovery for the anti-microbial resistence bacteria
 
-  ### Publication
-</details>
+  
+## Drug discovery for the anti-microbial resistence bacteria
+
+### Publication
+
