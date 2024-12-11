@@ -10,10 +10,10 @@ main:
     url: /
   
   - title: "Research & Publications"
-    url: /research/
+    url: /research
 
   - title: "Poster & Talks"
-    url: /talks/    
+    url: /talks    
 
   #- title: "Teaching"
   #  url: /teaching/    
