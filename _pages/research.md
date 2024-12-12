@@ -14,8 +14,6 @@ redirect_from:
 {% endif %}
 
 <br/>
-<br/>
-<br/>
 
 # Ph.D. research
 _Department of Biological Science, Purdue University, supervisor: Wen Jiang, 2019-2025_
@@ -61,6 +59,8 @@ Hallinan, G.I., Ozcan, K.A., Hoq, M.R., Cracco, L., Vago, F.S., Bharath, S.R., L
 
 González, B., Li, D., Li, K., Wright, E.T., Hardies, S.C., Thomas, J.A., Serwer, P. and Jiang, W., 2021. Structural studies of the phage G tail demonstrate an atypical tail contraction. Viruses, 13(10), p.2094.
 
+<br/>
+
 # CryoEM machine learning intern
 _Genentech, supervisor: Dimitry Tegunov, 2023 summer_
 
@@ -74,7 +74,8 @@ _Genentech, supervisor: Dimitry Tegunov, 2023 summer_
 # Research assitant 
 _Department of Biological Science, Purdue University, supervisor: Mohamed N. Seleem, 2018-2019_
 
-  
+<br/>
+
 ## Drug discovery for the anti-microbial resistence bacteria
 
 ### Publication
