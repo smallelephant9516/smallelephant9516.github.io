@@ -26,9 +26,9 @@ Many macromolecules in biological systems exist in the form of helical polymers,
 ### Publication
 
 
-<small> 
 
-**Li, D.**, & Jiang, W. (2023). Classification of helical polymers with deep-learning language models. Journal of Structural Biology, 108041.​ 
+
+<small> **Li, D.**, & Jiang, W. (2023). Classification of helical polymers with deep-learning language models. Journal of Structural Biology, 108041.​ </small>
 
 Zhang, X., Bharath, S. R., **Li, D.**, & Jiang, W. (2023). Maximize Access to Cryo-EM Learning and Research Tools with Web Apps.
 
@@ -36,7 +36,7 @@ Zhang, X., Bharath, S. R., **Li, D.**, & Jiang, W. (2023). Maximize Access to Cr
 
 **Li, D.**,  Munoz Perez, M., Zhang, X., Li, J., Jiang, W. Curating the helical parameter of the structure in EMDB (Writing)
 
-</small>
+
   
 ## Development for cryoVR
 
