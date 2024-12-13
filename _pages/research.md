@@ -28,13 +28,16 @@ Many macromolecules in biological systems exist in the form of helical polymers,
 
 
 
-<small> **Li, D.**, & Jiang, W. (2023). Classification of helical polymers with deep-learning language models. Journal of Structural Biology, 108041.​ </small>
-
-Zhang, X., Bharath, S. R., **Li, D.**, & Jiang, W. (2023). Maximize Access to Cryo-EM Learning and Research Tools with Web Apps.
-
-**Li, D.**, Zhang, X., Jiang, W. Helicon: Estimating the essential information for helical reconstruction from the image and position information of the 2D classification.  (Finish writing, doing proofreading)​
-
-**Li, D.**,  Munoz Perez, M., Zhang, X., Li, J., Jiang, W. Curating the helical parameter of the structure in EMDB (Writing)
+<small> 
+  
+  **Li, D.**, & Jiang, W. (2023). Classification of helical polymers with deep-learning language models. Journal of Structural Biology, 108041.​ 
+  
+  Zhang, X., Bharath, S. R., **Li, D.**, & Jiang, W. (2023). Maximize Access to Cryo-EM Learning and Research Tools with Web Apps.
+  
+  **Li, D.**, Zhang, X., Jiang, W. Helicon: Estimating the essential information for helical reconstruction from the image and position information of the 2D classification.  (Finish writing, doing proofreading)​
+  
+  **Li, D.**,  Munoz Perez, M., Zhang, X., Li, J., Jiang, W. Curating the helical parameter of the structure in EMDB (Writing)
+</small>
 
 
   
@@ -46,7 +49,10 @@ My responsibility for the cryoVR project is to build the 3D models for all the e
   
 ### Publication
 
-Dong, J., **Li, D.**, Ozcan, K., Wan, D., Jiang, W., & Chen, Y. (2022). Development of CryoVR, a virtual reality training system for hands-on cryoEM operations. Acta Crystallographica Section D: Structural Biology, 78(7).
+<small> 
+  
+  Dong, J., **Li, D.**, Ozcan, K., Wan, D., Jiang, W., & Chen, Y. (2022). Development of CryoVR, a virtual reality training system for hands-on cryoEM operations. Acta Crystallographica Section D: Structural Biology, 78(7).
+</small>
   
 ## Integrated our helical recontruction pipeline into our structral biology research
 
@@ -54,16 +60,18 @@ Our developed methods has been successfully applied in many researches in our la
 
 ### Publication
 
-Hoq, M.R., Fernandez, A., Vago, F.S., Hallinan, G.I., Bharath, S.R., **Li, D.,** Ozcan, K.A., Garringer, H.J., Jiang, W., Vidal, R. and Ghetti, B., 2024. Cryo-EM structures of cotton wool plaques’ amyloid β and of tau filaments in dominantly inherited Alzheimer disease. Acta Neuropathologica, 148(1), p.20.​
-
-Fernandez, A., Hoq, M.R., Hallinan, G.I., **Li, D.,** Bharath, S.R., Vago, F.S., Zhang, X., Ozcan, K.A., Newell, K.L., Garringer, H.J. and Jiang, W., 2024. Cryo-EM structures of amyloid-β and tau filaments in Down syndrome. Nature Structural & Molecular Biology, pp.1-7.​
-
-Hoq, M.R., Bharath, S.R., Hallinan, G.I., Fernandez, A., Vago, F.S., Ozcan, K.A., **Li, D.,** Garringer, H.J., Vidal, R., Ghetti, B. and Jiang, W., 2023. Cross-β helical filaments of Tau and TMEM106B in Gray and White Matter of Multiple System Tauopathy with presenile Dementia. Acta Neuropathologica, 145(5), pp.707-710.​
-
-Hallinan, G.I., Ozcan, K.A., Hoq, M.R., Cracco, L., Vago, F.S., Bharath, S.R., **Li, D.,** Jacobsen, M., Doud, E.H., Mosley, A.L. and Fernandez, A., 2022. Cryo-EM structures of prion protein filaments from Gerstmann–Sträussler–Scheinker disease. Acta Neuropathologica, 144(3), pp.509-520.​
-
-González, B., **Li, D.,** Li, K., Wright, E.T., Hardies, S.C., Thomas, J.A., Serwer, P. and Jiang, W., 2021. Structural studies of the phage G tail demonstrate an atypical tail contraction. Viruses, 13(10), p.2094.
-
+<small> 
+  
+  Hoq, M.R., Fernandez, A., Vago, F.S., Hallinan, G.I., Bharath, S.R., **Li, D.,** Ozcan, K.A., Garringer, H.J., Jiang, W., Vidal, R. and Ghetti, B., 2024. Cryo-EM structures of cotton wool plaques’ amyloid β and of tau filaments in dominantly inherited Alzheimer disease. Acta Neuropathologica, 148(1), p.20.​
+  
+  Fernandez, A., Hoq, M.R., Hallinan, G.I., **Li, D.,** Bharath, S.R., Vago, F.S., Zhang, X., Ozcan, K.A., Newell, K.L., Garringer, H.J. and Jiang, W., 2024. Cryo-EM structures of amyloid-β and tau filaments in Down syndrome. Nature Structural & Molecular Biology, pp.1-7.​
+  
+  Hoq, M.R., Bharath, S.R., Hallinan, G.I., Fernandez, A., Vago, F.S., Ozcan, K.A., **Li, D.,** Garringer, H.J., Vidal, R., Ghetti, B. and Jiang, W., 2023. Cross-β helical filaments of Tau and TMEM106B in Gray and White Matter of Multiple System Tauopathy with presenile Dementia. Acta Neuropathologica, 145(5), pp.707-710.​
+  
+  Hallinan, G.I., Ozcan, K.A., Hoq, M.R., Cracco, L., Vago, F.S., Bharath, S.R., **Li, D.,** Jacobsen, M., Doud, E.H., Mosley, A.L. and Fernandez, A., 2022. Cryo-EM structures of prion protein filaments from Gerstmann–Sträussler–Scheinker disease. Acta Neuropathologica, 144(3), pp.509-520.​
+  
+  González, B., **Li, D.,** Li, K., Wright, E.T., Hardies, S.C., Thomas, J.A., Serwer, P. and Jiang, W., 2021. Structural studies of the phage G tail demonstrate an atypical tail contraction. Viruses, 13(10), p.2094.
+</small>
 <br/>
 
 # CryoEM machine learning intern
