@@ -48,7 +48,7 @@ My responsibility for the cryoVR project is to build the 3D models for all the e
 
 Dong, J., **Li, D.**, Ozcan, K., Wan, D., Jiang, W., & Chen, Y. (2022). Development of CryoVR, a virtual reality training system for hands-on cryoEM operations. Acta Crystallographica Section D: Structural Biology, 78(7).
   
-## Integrated our real helical recontruction pipeline in our research
+## Integrated our helical recontruction pipeline into our structral biology research
 
 Our developed methods has been successfully applied in many researches in our lab, result into many high resolution helical structure solved. 
 
