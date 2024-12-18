@@ -20,6 +20,6 @@ I have been conducting research on method development for cryo-EM image analysis
 
 With that in mind, I am particularly enthusiastic about method development for high-throughput, inference-based cryo-EM structure determination rather than focusing solely on pushing structural resolution by a few more angstroms. Below are some research topics that align with my interests:
 
-1. Developing a real-time protein detection method for rapid protein structure identification.
+1. Developing a real-time protein detection method for rapid protein structure identification on cryoEM images.
 2. Advancing in situ structuromics using cryo-ET.
-3. Creating foundational models that can support multiple tasks, such as classification, object detection, and particle picking.
+3. Creating foundation model that can support multiple tasks, such as classification, object detection, and particle picking.
